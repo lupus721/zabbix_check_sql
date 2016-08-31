@@ -1,5 +1,5 @@
 # zabbix_check_sql
-test zabbix by 
+test zabbix
 
 you can use it in shell like
 
