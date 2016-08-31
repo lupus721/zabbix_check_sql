@@ -1,5 +1,5 @@
 # zabbix_check_sql
-test about zabbix by php 
+test zabbix by 
 
 you can use it like 
 python zabbix_session.py http://1.1.1.1/
